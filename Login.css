@@ -1,0 +1,28 @@
+.box
+{
+	width:1500px;
+	padding: 40px;
+	position: relative;
+    top:400px;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background:rgba(0,0,0,.8);
+    text-align:center;
+    border-radius: 40px;
+}
+.box h1
+{
+	color: red;
+	text-transform:uppercase;
+    font-weight: 500;
+}
+.box p
+{
+	color: white;
+	font-size: 15px;
+}
+.box p:hover
+{
+	background: white;
+	color: black;
+}

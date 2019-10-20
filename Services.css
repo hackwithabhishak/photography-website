@@ -1,0 +1,63 @@
+.Services{
+  background:white;
+}
+.Services h1{
+  color:black;
+  font-size: 70px;
+}
+.camera{
+  text-decoration: none;
+  position: relative;
+  left:200px;
+  top:-120px;
+  width: 400px;
+  height: 400px;
+  background:skyblue;
+  color: red;
+  font-size: 30px;
+  opacity: : 0.3;
+  text-align: center;
+  }
+.camera:hover{
+  background:black;
+  color: red;
+  transition: 0.6s;
+  box-shadow: 0 0 10px 0 grey;
+}
+.camera p{
+  text-decoration:none;
+}
+.Portraits{
+  text-decoration: none;
+  position: relative;
+  left:780px;
+  top:-520px;
+  width: 400px;
+  height: 400px;background:skyblue;
+  color: red;
+  font-size: 30px;
+  text-align: center;
+}
+.Portraits:hover{
+  background:black;
+  color: red;
+  transition: 0.6s;
+  box-shadow: 0 0 10px 0 grey;
+}
+.Wedding{
+  text-decoration:none;
+  position: relative;
+  left:1350px;
+  top:-920px;
+  width: 400px;
+  height: 400px;
+  background:skyblue;
+  color: red;font-size: 30px;
+  text-align: center;
+}
+.Wedding:hover{
+  background:black;
+  color: red;
+  transition: 0.6s;
+  box-shadow: 0 0 10px 0 grey;
+}
